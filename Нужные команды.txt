@@ -1,0 +1,2 @@
+powercfg /batteryreport -- Отчет о состоянии батареи
+powercfg energy -- отчет о состоянии системы питания
